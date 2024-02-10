@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1036905477462",
+    "project_id": "earthquake-62cca",
+    "storage_bucket": "earthquake-62cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036905477462:android:40a32a3f3025b203eb52f7",
+        "android_client_info": {
+          "package_name": "com.example.earthqaukes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036905477462-e85mcmv0h48sdbuu6gr1kj2ql7h99m74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGZ9B9t5xIDBvUwduheqjNrLiROT4ZxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036905477462-e85mcmv0h48sdbuu6gr1kj2ql7h99m74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036905477462-1f9gc864jmcfbl39iu2g22cvv4oagqok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.earthquakes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
